@@ -15,7 +15,7 @@ if (!file_exists($users_file)) {
             'id' => 1,
             'uid' => 'UID000001',
             'username' => 'admin',
-            'password' => password_hash('admin', PASSWORD_DEFAULT);
+	    'password' => password_hash('admin123', PASSWORD_DEFAULT),
             'is_admin' => true,
             'created_at' => date('Y-m-d H:i:s')
         ]
