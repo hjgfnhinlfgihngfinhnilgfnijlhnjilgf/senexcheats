@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:900,400);body{font-family: Raleway,Helvetica Neue,Helvetica,sans-serif;color: #eee;background-color: #101010;margin: 0}a{color: #eee;text-decoration: none}.bar{padding: 0;margin: 0;background: #1e5799;background: -moz-linear-gradient(left, #1e5799 0%, #f300ff 50%, #e0ff00 100%);background: -webkit-gradient(linear, left top, right top, color-stop(0%,#1e5799), color-stop(50%,#f300ff), color-stop(100%,#e0ff00));background: -webkit-linear-gradient(left, #1e5799 0%,#f300ff 50%,#e0ff00 100%);background: -o-linear-gradient(left, #1e5799 0%,#f300ff 50%,#e0ff00 100%);background: -ms-linear-gradient(left, #1e5799 0%,#f300ff 50%,#e0ff00 100%);background: linear-gradient(to right, #1e5799 0%,#f300ff 50%,#e0ff00 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#e0ff00',GradientType=1 );height: 3px;border-bottom: 1px solid #000}#container{position: absolute;left: 50%;top: 50%;-webkit-transform: translate(-50%, -50%);transform: translate(-50%, -50%)}#container h1{text-align: center;margin: 0 auto;padding: 0;font-size: 62pt;font-weight: normal;color: #eee;height: auto;max-height: 120px}#container h1 a{-webkit-touch-callout: none;-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;cursor: pointer}#container span{color: #6cc312}#container ul{margin: 0 auto;padding: 0;display:table;color: #eee;list-style: none;list-style-type: none;text-align: center;visibility: hidden}#container ul li{position: relative;display:table-cell;text-align: center}#container ul li a{position: relative;text-decoration: none;cursor: pointer;font-size: 31pt;padding:.3em}#container ul li a:hover{opacity:.7}@media screen and (max-width:770px){#container h1{font-size: 31pt;height: auto;margin-bottom:.3em}#container h1 a{padding:.3em}#container ul li{margin: 0 .1em}#container ul li a{font-size: 22pt;padding:.5em .7em}} .notice-bar {
+	background-color: #572e86;
+	color: #856404;
+	margin: 1em auto 1em auto;
+	padding: .75em 1.25em;
+	border: 1px solid transparent;
+	border-radius: .25em;
+	border-color: #8e3fe8;
+	font-weight: 700;
+	font-size: 1em;
+	text-align: center;
+	vertical-align: middle
+}
